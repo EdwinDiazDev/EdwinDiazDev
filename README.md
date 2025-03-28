@@ -16,7 +16,8 @@
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
   <a href="https://github.com/EdwinDiazDev" target="_blank">GitHub</a> | 
-  <a href="mailto:edwinalejandrodiazdev@gmail.com" target="_blank">Correo electrónico</a>
+  <a href="mailto:edwinalejandrodiazdev@gmail.com" target="_blank">Correo electrónico</a> | 
+  <a href="https://www.linkedin.com/in/edwin-alejandro-diaz-ochoa-a70956358/" target="_blank">Linkedin</a> 
 </p>
 
 
